@@ -70,4 +70,4 @@ Warren Wei
 
 ## License
 
-Nearmap
+MIT License
