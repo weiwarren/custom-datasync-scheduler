@@ -1,0 +1,14 @@
+{
+    "version": "0",
+    "id": "example-id",
+    "detail-type": "Scheduled Event",
+    "source": "aws.scheduler",
+    "account": "123456789012",
+    "time": "2024-09-26T00:00:00Z",
+    "region": "ap-southeast-2",
+    "resources": [
+      "arn:aws:scheduler:ap-southeast-2:123456789012:schedule/default/schedule-start-data-sync"
+    ],
+    "detail": {}
+  }
+  
